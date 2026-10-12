@@ -1,5 +1,3 @@
-# 代码和数据集将在11月上传
-
 ## 🎬 Demo
 
 > Click the thumbnail below to watch the acoustic shape-sensing demo ▶️
